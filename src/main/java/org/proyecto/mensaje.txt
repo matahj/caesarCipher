@@ -3,3 +3,6 @@ on txt file
 one
 two
 tree
+four
+five
+six
